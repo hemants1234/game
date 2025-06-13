@@ -1,0 +1,38 @@
+# Dependency directories
+node_modules/
+.pnpm/
+.yarn/
+.env
+.env.*        # .env.development, .env.production, etc.
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Docker
+docker-compose.override.yml
+*.local
+*.log
+
+# Optional for AWS/CI
+buildspec.yml
+
+# Mac/Linux trash
+.trash/
