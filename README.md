@@ -71,3 +71,9 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/hemants1234/game.git
 cd game
+cd backend
+npm install        # Install dependencies
+npm run dev        # Start the backend server
+cd ../game-frontend
+npm install        # Install frontend dependencies
+npm run dev        # Start the frontend development server
