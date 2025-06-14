@@ -81,7 +81,7 @@ Caches result in Redis (Upstash) for 2 minutes
 Clone the project:
 
 ```bash
-[git clone https://github.com/yourusername/project-name.git](https://github.com/hemants1234/game.git)
+[https://github.com/hemants1234/game.git]
 cd game
 first goto backend and install node_module (npm install) then run on local using (npm run dev)
 then goto game-frontend and install node_module (npm install) then run on local using (npm run dev)
